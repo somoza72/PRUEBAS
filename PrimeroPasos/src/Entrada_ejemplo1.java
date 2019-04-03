@@ -8,7 +8,7 @@ public class Entrada_ejemplo1 {
 		String nombre_usuario= entrada.nextLine();
 		System.out.println("introcude tu edad, y no me emientas");
 		int edad= entrada.nextInt();
-		System.out.println(" Hola " + nombre_usuario + " dentro de 5 años tendras "+ ( edad +5) + " y seras mas viejo que.....");
+		System.out.println(" Hola " + nombre_usuario + " dentro de 5 años tendras "+ ( edad +5) + " mas años que yo");
 	}
 
 }
